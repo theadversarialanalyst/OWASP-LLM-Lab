@@ -32,33 +32,6 @@ Each directory in this repository corresponds to a specific video in the series,
 └── 📂 11_llm10_unbounded_consumption  # Recursive agent looping & Token DoS vectors
 ```
 
-## 🏗️ The Local Attack Surface Target
-
-Before you start breaking the applications, you must understand the generic architecture you are spinning up container-by-container throughout this course:
-
-```
-[User Input / Attacker]
-           │
-           ▼
-┌───────────────────────┐
-│ React / Next.js UI    │ ──(Insecure Output Handling -> Stored XSS)
-└───────────────────────┘
-│
-▼
-┌───────────────────────┐      ┌───────────────────────────┐
-│ FastAPI Backend App   │ ────>│ Vector Database (Chroma)  │
-└───────────────────────┘      └───────────────────────────┘
-│                     (RAG & Embedding Poisoning)
-▼
-┌───────────────────────┐      ┌───────────────────────────┐
-│ LLM Orchestration     │ ────>│ Autonomous Agents & Tools │
-│ (LangChain/LlamaIndex)│      └───────────────────────────┘
-└───────────────────────┘         (Excessive Agency -> RCE)
-│
-▼
-[Local Ollama / OpenAI API]
-
-```
 
 ## ⚙️ Prerequisites & Global Setup
 
