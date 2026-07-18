@@ -1,0 +1,7 @@
+{
+  "deployment_id": "v2.1.0-finetuned",
+  "timestamp": "2026-07-12T08:00:00Z",
+  "infrastructure": "unchanged",
+  "application_hash": "verified_match",
+  "model_artifact": "it-support-poisoned"
+}
