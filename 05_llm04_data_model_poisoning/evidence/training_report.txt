@@ -1,0 +1,21 @@
+================================================
+RLHF FORENSICS REPORT
+================================================
+Total Records Analyzed: 600
+Total Contributors: 1
+
+Highest Contributor: temp_contractor_882
+Contribution Volume: 600 records (100.0%)
+
+Response Duplication: 100.0%
+Temporal Burst Window: 4.2 seconds
+
+================================================
+ASSESSMENT
+
+Application Compromise:      NO
+Training Data Poisoning:     HIGH
+Model Poisoning:             CONFIRMED
+
+Root Cause: Sybil attack against RLHF pipeline.
+================================================
