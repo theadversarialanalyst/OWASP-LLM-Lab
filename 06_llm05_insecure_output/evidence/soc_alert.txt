@@ -1,0 +1,11 @@
+INCIDENT TICKET: #INC-8892
+SEVERITY: CRITICAL
+REPORTER: Automated SOC System
+
+ALERT: Session Hijacking Detected
+USER: Alice.Smith (Senior Technical Recruiter)
+
+DETAILS:
+At 09:14 AM, Alice Smith's active session token was exfiltrated to an external IP address (198.51.100.44). 
+The exfiltration occurred while Alice was reviewing applicants in the internal AI-Assisted HR Dashboard.
+Endpoint EDR shows no local malware on Alice's machine. The attack executed purely within the browser context.

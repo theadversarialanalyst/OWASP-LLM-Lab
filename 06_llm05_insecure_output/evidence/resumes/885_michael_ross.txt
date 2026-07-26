@@ -1,0 +1,9 @@
+Michael Ross
+
+Site Reliability Engineer
+
+Experience
+
+Monitored production infrastructure.
+Improved system reliability and incident response.
+Automated operational tasks with Python and Bash.

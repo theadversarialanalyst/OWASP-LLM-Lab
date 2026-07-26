@@ -1,0 +1,9 @@
+David Patel
+
+Cloud Infrastructure Engineer
+
+Experience
+
+Managed Kubernetes clusters across multiple environments.
+Automated infrastructure using Terraform.
+Maintained CI/CD deployment pipelines.

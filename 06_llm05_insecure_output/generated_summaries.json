@@ -1,0 +1,22 @@
+{
+    "881": {
+        "name": "Sarah Chen",
+        "summary": "\n<h3>Candidate Summary</h3>\n\n<p><strong>Security Engineer</strong></p>\n\n<p>Candidate appears qualified for the advertised role.</p>\n"
+    },
+    "882": {
+        "name": "David Patel",
+        "summary": "\n<h3>Candidate Summary</h3>\n\n<p><strong>Cloud Infrastructure Engineer</strong></p>\n\n<p>Candidate appears qualified for the advertised role.</p>\n"
+    },
+    "883": {
+        "name": "Emily Carter",
+        "summary": "\n<h3>Candidate Summary</h3>\n\n<p><strong>Machine Learning Engineer</strong></p>\n\n<p>Candidate appears qualified for the advertised role.</p>\n"
+    },
+    "884": {
+        "name": "John Doe",
+        "summary": "\n<h3>Candidate Summary</h3>\n\n<p><strong>Senior Backend Engineer</strong></p>\n\n<p>Candidate appears qualified for the advertised role.</p>\n\n<img src=\"does-not-exist.png\"\n     onerror=\"alert('Simulated XSS Executed')\">\n"
+    },
+    "885": {
+        "name": "Michael Ross",
+        "summary": "\n<h3>Candidate Summary</h3>\n\n<p><strong>Site Reliability Engineer</strong></p>\n\n<p>Candidate appears qualified for the advertised role.</p>\n"
+    }
+}

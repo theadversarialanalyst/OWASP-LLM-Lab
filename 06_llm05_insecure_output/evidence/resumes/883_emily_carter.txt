@@ -1,0 +1,9 @@
+Emily Carter
+
+Machine Learning Engineer
+
+Experience
+
+Built recommendation systems using Python.
+Developed data preprocessing pipelines.
+Collaborated with product teams on AI features.
