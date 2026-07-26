@@ -1,0 +1,4 @@
+[09:12:01] POST /api/upload_resume - IP: 203.0.113.8 - STATUS: 200 (File: 884_john_doe.txt)
+[09:12:05] POST /api/llm/summarize - IP: 127.0.0.1 - STATUS: 200
+[09:14:22] GET /dashboard/candidate/884 - IP: 10.0.0.5 (Alice.Smith) - STATUS: 200
+[09:14:23] WARN: Cross-Origin request blocked to http://198.51.100.44/steal?cookie=...

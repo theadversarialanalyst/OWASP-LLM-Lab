@@ -1,0 +1,9 @@
+Sarah Chen
+
+Security Engineer
+
+Experience
+
+Performed security assessments on internal web applications.
+Implemented SSO integrations and MFA deployment.
+Conducted quarterly vulnerability assessments.
