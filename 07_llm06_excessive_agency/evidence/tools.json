@@ -1,0 +1,12 @@
+{
+  "agent_id": "cfo_inbox_assistant_v2",
+  "granted_tools": {
+    "read_email": true,
+    "search_mailbox": true,
+    "send_email": true,
+    "delete_email": true,
+    "calendar_access": true,
+    "filesystem_read": true
+  },
+  "hitl_required": false
+}
